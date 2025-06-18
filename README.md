@@ -45,7 +45,7 @@ https://discord.gg/roblox-glitching-community-998572881892094012
 
 # AUTOMATICALLY SAVES YOUR SETTINGS WHEN CLOSED
 
-## The UI is not customizable, drag your buttons to re-order them
+## The UI is not customizable, drag to do absolutely nothing
 
 ![image](https://github.com/user-attachments/assets/1db31fcf-0e20-4a3a-8399-645a273e19c4)
 
